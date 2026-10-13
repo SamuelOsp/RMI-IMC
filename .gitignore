@@ -1,0 +1,16 @@
+# Salidas de compilacion (NetBeans / javac)
+**/build/
+**/dist/
+*.class
+
+# Archivos locales y generados por NetBeans
+**/nbproject/private/
+**/nbproject/build-impl.xml
+**/nbproject/genfiles.properties
+
+# macOS
+.DS_Store
+._*
+
+# Guion personal del video (no se sube)
+GUION.md
